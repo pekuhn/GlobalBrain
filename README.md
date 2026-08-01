@@ -1,5 +1,7 @@
 # GlobalBrain
 
+Read the accompanying essay: [The Global Brain: A Computational Model](https://theanticompletionist.substack.com/p/the-global-brain-a-computational), which describes the underlying idea in detail.
+
 ![Biological vs. cultural evolution of interaction propensity](evolution.png)
 
 ## Theory
