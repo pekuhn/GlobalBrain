@@ -1,5 +1,7 @@
 # GlobalBrain
 
+![Biological vs. cultural evolution of interaction propensity](evolution.png)
+
 ## Theory
 
 This is a fresh project. The goal is to check a hypothesis about the interplay of
